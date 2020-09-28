@@ -1,3 +1,3 @@
-module github.com/bahrom656/bank
+module github.com/bahrom656/bank/v2
 
 go 1.15
